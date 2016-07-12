@@ -9,4 +9,5 @@ http://www.edamamecourse.org/
 Notes were taken in Ethernet for the whole group
 https://public.etherpad-mozilla.org/p/EDAMAME-2016
 
+Instructors: Ashley Shade, Tracy Teal, Adina Howe
 
